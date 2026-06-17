@@ -1,0 +1,198 @@
+/* Move search to far right */
+.md-header__source {
+    display: none;
+}
+
+/* Highlight the bottom border of the active menu item. */
+.md-tabs .md-tabs__item--active {
+    border-bottom: .1rem solid var(--md-accent-fg-color);
+}
+
+/* Secondary Button */
+.md-typeset .md-button--secondary {
+    background: var(--md-accent-fg-color--transparent);
+}
+
+/* Stylize Headers */
+.section-header {    
+    background: var(--md-accent-fg-color--transparent);
+    border-radius: .4rem;
+    padding: .35rem .8rem;
+}
+
+/*Inline Images*/
+img.wrap {
+    float: left;
+    margin-right: 1rem;
+    margin-bottom: .5rem;
+    border-radius: .4rem;
+}
+
+/*Inline navigation*/
+@media screen and (min-width: 76.25em) {
+    .inline-nav {
+        display: none !important;
+    }
+}
+
+.inline-nav.grid.cards a.md-button {
+    width: 100%;
+}
+
+/* Inline Definition Lists */
+dl.inline-dl {
+    margin-left: 1.5em;
+    margin-top: 0;
+}
+
+dl.inline-dl dt {
+    font-weight: bold;
+    display: inline-block;
+    margin-block-start: 1em;
+}
+
+dl.inline-dl dt:after {
+    content: ": ";
+}
+
+dl.inline-dl dd {
+    display: inline; 
+    margin-left: 0 !important;
+}
+
+dl.inline-dl dd:after{
+  display: block;
+  content: '';
+}
+
+/* Normalize Admonition/Details colors to match theme colors */
+.md-typeset .admonition, .md-typeset details,
+.md-typeset .admonition.info, .md-typeset details.info,
+.md-typeset .admonition.question, .md-typeset details.question {
+    background-color: var(--md-accent-fg-color--transparent);
+}
+.md-typeset .admonition-title:before, .md-typeset summary:before,
+.md-typeset .info>.admonition-title:before, .md-typeset .info>summary:before,
+.md-typeset .question>.admonition-title:before, .md-typeset .question>summary:before {
+    background-color: var(--md-accent-fg-color);
+}
+
+.md-typeset .admonition-title:after, .md-typeset summary:after,
+.md-typeset .info>.admonition-title:after, .md-typeset .info>summary:after,
+.md-typeset .question>.admonition-title:after, .md-typeset .question>summary:after {
+    color: var(--md-accent-fg-color);
+}
+
+/* Define icons for custom details/admonitions */
+.md-typeset .judge>.admonition-title:before, .md-typeset .judge>summary:before {
+    --md-admonition-icon--judge: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>gavel</title><path d="M2.3,20.28L11.9,10.68L10.5,9.26L9.78,9.97C9.39,10.36 8.76,10.36 8.37,9.97L7.66,9.26C7.27,8.87 7.27,8.24 7.66,7.85L13.32,2.19C13.71,1.8 14.34,1.8 14.73,2.19L15.44,2.9C15.83,3.29 15.83,3.92 15.44,4.31L14.73,5L16.15,6.43C16.54,6.04 17.17,6.04 17.56,6.43C17.95,6.82 17.95,7.46 17.56,7.85L18.97,9.26L19.68,8.55C20.07,8.16 20.71,8.16 21.1,8.55L21.8,9.26C22.19,9.65 22.19,10.29 21.8,10.68L16.15,16.33C15.76,16.72 15.12,16.72 14.73,16.33L14.03,15.63C13.63,15.24 13.63,14.6 14.03,14.21L14.73,13.5L13.32,12.09L3.71,21.7C3.32,22.09 2.69,22.09 2.3,21.7C1.91,21.31 1.91,20.67 2.3,20.28M20,19A2,2 0 0,1 22,21V22H12V21A2,2 0 0,1 14,19H20Z" /></svg>');
+    -webkit-mask-image: var(--md-admonition-icon--judge);
+    mask-image: var(--md-admonition-icon--judge);
+}
+
+.md-typeset .links>.admonition-title:before, .md-typeset .links>summary:before {
+    --md-admonition-icon--links: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>link-variant</title><path d="M10.59,13.41C11,13.8 11,14.44 10.59,14.83C10.2,15.22 9.56,15.22 9.17,14.83C7.22,12.88 7.22,9.71 9.17,7.76V7.76L12.71,4.22C14.66,2.27 17.83,2.27 19.78,4.22C21.73,6.17 21.73,9.34 19.78,11.29L18.29,12.78C18.3,11.96 18.17,11.14 17.89,10.36L18.36,9.88C19.54,8.71 19.54,6.81 18.36,5.64C17.19,4.46 15.29,4.46 14.12,5.64L10.59,9.17C9.41,10.34 9.41,12.24 10.59,13.41M13.41,9.17C13.8,8.78 14.44,8.78 14.83,9.17C16.78,11.12 16.78,14.29 14.83,16.24V16.24L11.29,19.78C9.34,21.73 6.17,21.73 4.22,19.78C2.27,17.83 2.27,14.66 4.22,12.71L5.71,11.22C5.7,12.04 5.83,12.86 6.11,13.65L5.64,14.12C4.46,15.29 4.46,17.19 5.64,18.36C6.81,19.54 8.71,19.54 9.88,18.36L13.41,14.83C14.59,13.66 14.59,11.76 13.41,10.59C13,10.2 13,9.56 13.41,9.17Z" /></svg>');
+    -webkit-mask-image: var(--md-admonition-icon--links);
+    mask-image: var(--md-admonition-icon--links);
+}
+
+.md-typeset .directions>.admonition-title:before, .md-typeset .directions>summary:before {
+    --md-admonition-icon--directions: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-map-pinned-icon lucide-map-pinned"><path d="M18 8c0 3.613-3.869 7.429-5.393 8.795a1 1 0 0 1-1.214 0C9.87 15.429 6 11.613 6 8a6 6 0 0 1 12 0"/><circle cx="12" cy="8" r="2"/><path d="M8.714 14h-3.71a1 1 0 0 0-.948.683l-2.004 6A1 1 0 0 0 3 22h18a1 1 0 0 0 .948-1.316l-2-6a1 1 0 0 0-.949-.684h-3.712"/></svg>');
+    -webkit-mask-image: var(--md-admonition-icon--directions);
+    mask-image: var(--md-admonition-icon--directions);
+}
+
+/* Center Card */
+.cards.center p {
+    text-align: center;
+}
+
+/* Darken Card Border */
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+    border: .05rem solid var(--md-default-fg-color--lighter);
+}
+
+/* Block Cards (as opposed to grid cards) */
+.md-typeset .block {
+    margin: 1em 0;
+}
+
+.md-typeset .block.cards>ol, .md-typeset .block.cards>ul {
+    display: contents;
+}
+
+.md-typeset .block>*, .md-typeset .grid>.admonition, .md-typeset .block>.highlight>*,
+.md-typeset .block>.highlighttable, .md-typeset .block>.md-typeset details, 
+.md-typeset .block>details, .md-typeset .block>pre {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.md-typeset .block.cards>ol>li, .md-typeset .block.cards>ul>li, .md-typeset .block>.card {
+    border: .05rem solid var(--md-default-fg-color--lighter);
+    border-radius: .4rem;
+    display: block;
+    margin: .4rem 0;
+    padding: .8rem;
+    transition: background-color .25s,border .25s,box-shadow .25s;
+}
+
+.md-typeset .block.cards>ol>li>:first-child, .md-typeset .block.cards>ul>li>:first-child, 
+.md-typeset .block>.card>:first-child {
+    margin-top: 0;
+}
+
+/* Home Page Welcome Card */
+div#welcome {
+    padding: 1.5em;
+    border-radius: .4rem;
+    background: no-repeat center url("/assets/images/warren-courthouse.png");
+    background-size: cover;
+}
+
+div#welcome h1 {
+    text-align: center; 
+    background-color: var(--md-default-bg-color--light); 
+    padding: .75em;
+    border-radius: .4rem;
+    margin-bottom: .75em;
+    color: var(--md-typeset-a-color);
+}
+
+div#feature {
+    margin: 0;
+    grid-gap: 1.5em;
+}
+
+div#feature li {
+    background-color: var(--md-default-bg-color--light);
+    border: .05rem solid var(--md-default-fg-color--lightest);
+}
+
+div#feature li p {
+    font-weight: bold;
+}
+
+div#feature li p:first-of-type {
+    color: var(--md-typeset-a-color);
+    font-size: 1.4em;
+}
+
+/* Columns */
+.columns {
+    -webkit-columns: 3 300px;
+    -moz-columns: 3 300px;
+    columns: 3 300px;
+    -webkit-column-gap: 1em;
+    -moz-column-gap: 1em;
+    column-gap: 1em;
+}
+
+.columns ul {
+    margin-top: 0;
+}
+
+/* Accordians */
+details>summary>h3 {
+    margin: 0 !important;
+}

@@ -1,0 +1,17 @@
+[project]
+name = "warrenforestcourt.org"
+version = "0.1.0"
+description = "The website for the Thirty-Seventh Judicial District of the Commonwealth of Pennsylvania."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "details-block",
+]
+
+[dependency-groups]
+dev = [
+    "zensical>=0.0.44",
+]
+
+[tool.uv.sources]
+details-block = { git = "https://github.com/waylan/details_block" }

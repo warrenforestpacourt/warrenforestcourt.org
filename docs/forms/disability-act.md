@@ -16,6 +16,6 @@ icon: material/file-document-edit-outline
     [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
     Office for details.
 
-    [Download Form](/documents/disability-act/ADA-37th-judicial-district-Policies-Forms-District.pdf "Request for Reasonable Accommodation Form"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/disability-act/ADA-37th-judicial-district-Policies-Forms-District.pdf "Request for Reasonable Accommodation Form"){ .md-button .md-button--secondary target="_blank" }
 
 ///

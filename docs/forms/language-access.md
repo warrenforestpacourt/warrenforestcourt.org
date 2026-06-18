@@ -20,10 +20,10 @@ icon: material/file-document-edit-outline
     204 Fourth Avenue<br>
     Warren PA 16365<br>
     (814) 728-3531<br>
-    [LAC@warrencountypa.gov](mailto:LAC@warrencountypa.gov)
+    <LAC@warrencountypa.gov>
     { style="padding-left: 3em"}
 
-    [Download Form](/documents/language-access/Interpreter-Request-Form-Civil.pdf "Interpreter Request &mdash; Civil"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-Request-Form-Civil.pdf "Interpreter Request &mdash; Civil"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Interpreter Request &mdash; Criminal
 
@@ -37,10 +37,10 @@ icon: material/file-document-edit-outline
     204 Fourth Avenue<br>
     Warren PA 16365<br>
     (814) 728-3531<br>
-    [LAC@warrencountypa.gov](mailto:LAC@warrencountypa.gov)
+    <LAC@warrencountypa.gov>
     { style="padding-left: 3em"}
 
-    [Download Form](/documents/language-access/Interpreter-Request-Form-Criminal.pdf "Interpreter Request &mdash; Criminal"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-Request-Form-Criminal.pdf "Interpreter Request &mdash; Criminal"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Interpreter Request &mdash; Family
 
@@ -54,10 +54,10 @@ icon: material/file-document-edit-outline
     204 Fourth Avenue<br>
     Warren PA 16365<br>
     (814) 728-3531<br>
-    [LAC@warrencountypa.gov](mailto:LAC@warrencountypa.gov)
+    <LAC@warrencountypa.gov>
     { style="padding-left: 3em"}
 
-    [Download Form](/documents/language-access/Interpreter-request-form-civil-family2021.pdf "Interpreter Request &mdash; Family"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-request-form-civil-family2021.pdf "Interpreter Request &mdash; Family"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Interpreter Request &mdash; Magisterial District Judge
 
@@ -71,31 +71,31 @@ icon: material/file-document-edit-outline
     204 Fourth Avenue<br>
     Warren PA 16365<br>
     (814) 728-3531<br>
-    [LAC@warrencountypa.gov](mailto:LAC@warrencountypa.gov)
+    <LAC@warrencountypa.gov>
     { style="padding-left: 3em"}
 
-    [Download Form](/documents/language-access/Interpreter-request-form-MDJ.pdf "Interpreter Request &mdash; Magisterial District Judge"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-request-form-MDJ.pdf "Interpreter Request &mdash; Magisterial District Judge"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Interpreter Waiver &mdash; Court of Common Pleas
 
     Use this form to waive the right to an interpreter when appearing before
     the Court of Common Pleas.
 
-    [Download Form](/documents/language-access/Interpreter-waiver-Court-of-Common-Pleas.pdf "Interpreter Waiver &mdash; Court of Common Pleas"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-waiver-Court-of-Common-Pleas.pdf "Interpreter Waiver &mdash; Court of Common Pleas"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Interpreter Waiver &mdash; Magisterial Justice Judge
 
     Use this form to waive the right to an interpreter when appearing before a
     Magisterial District Judge.
 
-    [Download Form](/documents/language-access/Interpreter-waiver-form-MDJ.pdf "Interpreter Waiver &mdash; Magisterial Justice Judge"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Interpreter-waiver-form-MDJ.pdf "Interpreter Waiver &mdash; Magisterial Justice Judge"){ .md-button .md-button--secondary target="_blank" }
 
-*   ### Jury Service for Citizens Who Speak English as a Second Language
+*   ### Jury Service in Pennsylvania's State Courts for U.S. Citizens Who Speak English as a Second Language
 
     Informational brochure about Jury Service in Pennsylvania’s State Courts
     for U.S. Citizens Who Speak English as a Second Language.
 
-    [Download Form](/documents/language-access/Jury-Service-in-PA-English-as-2nd-language.pdf "Jurry Service for Citizens Who Speak English as a Second Language"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Jury-Service-in-PA-English-as-2nd-language.pdf "Jurry Service for Citizens Who Speak English as a Second Language"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Language Access Plan
 
@@ -111,14 +111,14 @@ icon: material/file-document-edit-outline
     and hard of hearing persons who come in contact with the judicial
     district.
 
-    [Download Form](/documents/language-access/LanguageAccessPlan.pdf "Language Access Plan"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/LanguageAccessPlan.pdf "Language Access Plan"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Language Access Plan Brochure
 
     An informational brochure about the Language Access Plan. Provides a brief
     explanation about how to request an interpreter and what to expect.
 
-    [Download Form](/documents/language-access/LanguageAccessBrochure.pdf "Language Access Plan Brochure"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/LanguageAccessBrochure.pdf "Language Access Plan Brochure"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Language Access Plan Complaint Form
 
@@ -127,7 +127,7 @@ icon: material/file-document-edit-outline
     [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
     Office for details.
 
-    [Download Form](/documents/language-access/Pennsylvania-Courts-Language-Services-Complaint-Bilingual-Spanish-5.17.22-Fillable.pdf "Language Access Plan Complaint Form"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/Pennsylvania-Courts-Language-Services-Complaint-Bilingual-Spanish-5.17.22-Fillable.pdf "Language Access Plan Complaint Form"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Request for Reasonable Accommodation Form
 
@@ -137,5 +137,5 @@ icon: material/file-document-edit-outline
     [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
     Office for details.
 
-    [Download Form](/documents/language-access/ADA-37th-judicial-district-Policies-Forms-District.pdf "Request for Reasonable Accommodation Form"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/language-access/ADA-37th-judicial-district-Policies-Forms-District.pdf "Request for Reasonable Accommodation Form"){ .md-button .md-button--secondary target="_blank" }
 ///

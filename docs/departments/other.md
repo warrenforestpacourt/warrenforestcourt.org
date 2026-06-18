@@ -25,7 +25,7 @@ Fax: [814-728-3459](tel:+18147283459)
 ### Location:
 
 The Warren County Prothonotary/Clerk of Courts is located in the Warren County
-Courthouse. Get [directions](/departments/#directions-warren-courthouse) to
+Courthouse. Get [directions](index.md#directions-warren-courthouse) to
 the Courthouse.
 
 ## Warren County Register & Recorder/Clerk of Orphans’ Court { .section-header }
@@ -49,7 +49,7 @@ Fax: [814-728-3476](tel:+18147283476)
 ### Location:
 
 The Warren County Register & Recorder/Clerk of Orphans’ Court is located in the Warren 
-County Courthouse. Get [directions](/departments/#directions-warren-courthouse)
+County Courthouse. Get [directions](index.md#directions-warren-courthouse)
 to the Courthouse.
 
 ## Forest County Register & Recorder/Clerk of Courts/Prothonotary { .section-header }
@@ -73,5 +73,5 @@ Fax: [814-755-7957](tel:+18147557957)
 ### Location:
 
 The Forest County Register & Recorder/Clerk of Courts/Prothonotary’s Office is
-located in the Forest County Courthouse. Get [directions](/departments/#directions-forest-courthouse)
+located in the Forest County Courthouse. Get [directions](index.md#directions-forest-courthouse)
 to the Courthouse.

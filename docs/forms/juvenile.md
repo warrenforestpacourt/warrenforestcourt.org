@@ -14,5 +14,5 @@ icon: material/file-document-edit-outline
     a Juvenile matter. Contact the [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
     Office for details.
 
-    [Download Form](/documents/juvenile/jd-afc.pdf "Juvenile Dependency-Application for Counsel"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/juvenile/jd-afc.pdf "Juvenile Dependency-Application for Counsel"){ .md-button .md-button--secondary target="_blank" }
 ///

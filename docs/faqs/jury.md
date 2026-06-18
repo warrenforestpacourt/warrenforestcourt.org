@@ -95,5 +95,5 @@ dresses are all appropriate.
 
 See a brochure prepared by the Pennsylvania Interbranch Commission for Gender,
 Racial and Ethnic Fairness entitled: [Jury Service in Pennsylvania’s State
-Courts for U.S. Citizens Who Speak English as a Second Language](/documents/language-access/Jury-Service-in-PA-English-as-2nd-language.pdf).
+Courts for U.S. Citizens Who Speak English as a Second Language](../forms/language-access.md#jury-service-in-pennsylvanias-state-courts-for-us-citizens-who-speak-english-as-a-second-language).
 ///

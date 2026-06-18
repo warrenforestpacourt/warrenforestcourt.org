@@ -35,7 +35,7 @@ Fax: [814-728-3452](tel:+18147283452)<br>
 
 The Office of the Court Administrator is located on the **second floor** of
 the Warren County Courthouse and can be accessed by either elevator in the
-building. Get [directions](/departments/#directions-warren-courthouse) to the
+building. Get [directions](index.md#directions-warren-courthouse) to the
 Courthouse.
 
 ## Court Calendar
@@ -47,7 +47,7 @@ Courthouse.
     attrs:
         name: judge
 
-![The Honorable Gregory J. Hammond, President Judge](/assets/images/Judge-Hammond.jpg){ .wrap }
+![The Honorable Gregory J. Hammond, President Judge](../assets/images/Judge-Hammond.jpg){ .wrap }
 Gregory J. Hammond was elected as Judge in November of 2009, and commenced
 his first term in January of 2010. He was retained for a second ten-year
 term in November of 2019, receiving the highest percentage of retention
@@ -82,7 +82,7 @@ term in January of 2026.
     attrs:
         name: judge
 
-![The Honorable Maureen A. Skerda, Senior Judge](/assets/images/Judge-Skerda.jpg){ .wrap }
+![The Honorable Maureen A. Skerda, Senior Judge](../assets/images/Judge-Skerda.jpg){ .wrap }
 Maureen A. Skerda was elected as the first female Judge of the 37th Judicial
 District and began her term of office in January of 2006. Judge Skerda
 served as the President Judge from 2010 through 2025 and became a Senior
@@ -118,27 +118,27 @@ and three grandchildren.
 ### Jessica Arnold &mdash; Court Administrator
 
 -   Phone [814-728-3531](tel:+18147283531)
--   Email: [jarnold@warrencountypa.gov](mailto:jarnold@warrencountypa.gov)
+-   Email: <jarnold@warrencountypa.gov>
 
 ### Tyra Olson &mdash; Deputy Court Administrator
 
 -   Phone [814-728-3530](tel:+18147283530)
--   Email: [tolson@warrencountypa.gov](mailto:tolson@warrencountypa.gov)
+-   Email: <tolson@warrencountypa.gov>
 
 ### Gabrielle Carlson &mdash; Deputy Court Administrator
 
 -   Phone [814-728-3533](tel:+18147283533)
--   Email: [gacarlson@warrencountypa.gov](mailto:gacarlson@warrencountypa.gov)
+-   Email: <gacarlson@warrencountypa.gov>
 
 ### Jackie Sherwood &mdash; Court Reporter
 
 -   Phone [814-728-3532](tel:+18147283532)
--   Email: [jsherwood@warrencountypa.gov](mailto:jsherwood@warrencountypa.gov)
+-   Email: <jsherwood@warrencountypa.gov>
 
 ### Megan Andrews &mdash; Law Clerk
 
 -   Phone [814-728-3449](tel:+18147283449)
--   Email: [mandrews@warrencountypa.gov](mailto:mandrews@warrencountypa.gov)
+-   Email: <mandrews@warrencountypa.gov>
 
 ## Tip Staff
 

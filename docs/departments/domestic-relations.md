@@ -15,7 +15,7 @@ Warren, PA 16365-0217
 
 Phone: [(814) 728-3540](tel:+18147283540)<br>
 Fax: [(814) 728-5534](tel:+18147285534)<br>
-Email: [carriehendrickson@pacses.com](mailto:carriehendrickson@pacses.com)
+Email: <carriehendrickson@pacses.com>
 
 For more information on child and spousal support or to access your account
 online, visit <https://www.humanservices.state.pa.us/csws/>.
@@ -27,7 +27,7 @@ online, visit <https://www.humanservices.state.pa.us/csws/>.
 ## Location:
 
 The Domestic Relations Office is located in the Hickory Street Annex at 333
-Hickory Street, in the city of Warren. Get [directions](/departments/#directions-hickory-street)
+Hickory Street, in the city of Warren. Get [directions](index.md#directions-hickory-street)
 to the office. The main entrance to the office is off the parking lot on the
 left side of the building, towards the back.
 

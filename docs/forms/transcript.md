@@ -14,5 +14,5 @@ icon: material/file-document-edit-outline
     [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
     Office for details.
 
-    [Download Form](/documents/transcript/RequestForTranscript.pdf "Request for Transcript or Copy Form"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/transcript/RequestForTranscript.pdf "Request for Transcript or Copy Form"){ .md-button .md-button--secondary target="_blank" }
 ///

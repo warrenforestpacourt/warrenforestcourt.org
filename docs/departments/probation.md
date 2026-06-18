@@ -14,12 +14,12 @@ Tionesta, PA 16353
 
 Phone: [814-755-3851](tel:+18147553851)<br>
 Fax: [814-755-7722](tel:+18147557722)<br>
-Email: [mrhoads@forestcountypa.gov](mailto:mrhoads@forestcountypa.gov)
+Email: <mrhoads@forestcountypa.gov>
 
 ### Location
 
 The Forest County Probation Department is located in the Forest County Courthouse.
-Get [directions](/departments#directions-forest-courthouse) to the Courthouse.
+Get [directions](index.md#directions-forest-courthouse) to the Courthouse.
 
 ### Staff
 
@@ -38,7 +38,7 @@ Warren, PA 16365-2362
 
 Phone: [814-728-3520](tel:+18147283520)<br>
 Fax: [814-728-3467](tel:+18147283467)<br>
-Email: [mwalters@warrencountypa.gov](mailto:mwalters@warrencountypa.gov)
+Email: <mwalters@warrencountypa.gov>
 
 ### Court Collections
 
@@ -49,7 +49,7 @@ Phone: [814-728-3487](tel:+18147283487)
 The Adult Probation Office is located in the **basement** of the Warren County
 Courthouse and is most easily accessed by entering from the door (down the
 stairs) facing the parking lot to the left (opposite Market Street) of the
-Courthouse. Get [directions](/departments#directions-warren-courthouse) to
+Courthouse. Get [directions](index.md#directions-warren-courthouse) to
 the Courthouse.
 
 ### Probation Officers
@@ -82,7 +82,7 @@ Warren, PA 16365-2362
 
 Phone: [814-728-3500](tel:+18147283500)<br>
 Fax: [814-728-3535](tel:+18147283535)<br>
-Email: [mgrubbs@warrencountypa.gov](mailto:mgrubbs@warrencountypa.gov)
+Email: <mgrubbs@warrencountypa.gov>
 
 ### Location
 
@@ -90,7 +90,7 @@ The Juvenile Probation Office is the only office located on the **third
 floor** of the Warren County Courthouse and is most easily accessed by the
 elevator. Note: Only the old elevator near the center of the courthouse goes
 up to the third floor. 
-Get [directions](departments/#directions-warren-courthouse) to the Courthouse.
+Get [directions](index.md#directions-warren-courthouse) to the Courthouse.
 
 ### Probation Officers
 

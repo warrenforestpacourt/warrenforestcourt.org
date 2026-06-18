@@ -14,12 +14,12 @@ icon: material/file-document-edit-outline
     the Defendant be required to relinquish firearms, other weapons, and
     ammunition to the sheriff.
 
-    [Download Form](/documents/pfa/AttachmentA-PFAPetition.pdf "PFA Attachment A"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/pfa/AttachmentA-PFAPetition.pdf "PFA Attachment A"){ .md-button .md-button--secondary target="_blank" }
 
 *   ### Protection From Abuse Petition
 
     Use this form to request that a Protection from Abuse Order be entered.
-    Contact the [Court Administrator’s](/departments/court-administrator.md "Court Administrator") Office for details.
+    Contact the [Court Administrator’s](../departments/court-administrator.md "Court Administrator") Office for details.
 
-    [Download Form](/documents/pfa/ProtectionFromAbusePetition.pdf "Protection From Abuse Petition"){ .md-button .md-button--secondary target="_blank" }
+    [Download Form](../documents/pfa/ProtectionFromAbusePetition.pdf "Protection From Abuse Petition"){ .md-button .md-button--secondary target="_blank" }
 ///

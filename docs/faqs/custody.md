@@ -10,8 +10,8 @@ icon: material/frequently-asked-questions
     attrs:
         name: faq
 
-The different types of custody arw defined by Pennsylvania law, specifically
-23 Pa. C.S. §5322 (a). They are as follows:
+The different types of custody are defined by Pennsylvania law, specifically
+23 Pa. C.S. §5322(a). They are as follows:
 
 //// define
     attrs:
@@ -90,7 +90,7 @@ cases are civil law matters.
     attrs:
         name: faq
 
-To file for custody, you will need to fill out a [COMPLAINT FOR CUSTODY](/forms/custody/).
+To file for custody, you will need to fill out a [COMPLAINT FOR CUSTODY](../forms/custody.md).
 The Court Hearing Office has Complaint for Custody forms with instructions. It
 is very important to read and follow the written instructions. You may file
 your Complaint for Custody by taking it to the Family Hearing Office or the
@@ -104,7 +104,7 @@ You may download a Complaint for Custody from the Forms section of this site.
     attrs:
         name: faq
 
-Every custody case starts with the filing of a [COMPLAINT FOR CUSTODY](/forms/custody/),
+Every custody case starts with the filing of a [COMPLAINT FOR CUSTODY](../forms/custody.md),
 regardless of the type of custody that is being requested (see the
 [different types of custody](#what-are-the-different-types-of-custody),
 above). When filling out your Complaint for Custody, you will indicate the
@@ -133,9 +133,9 @@ time.
         name: faq
 
 If you cannot afford to pay the filing fee, you should complete a special form
-called a [PRAECIPE TO PROCEED IN FORMA PAUPERIS](/forms/custody/#petition-to-proceed-in-forma-pauperis-request-waiver-of-filing-fee)
+called a [PRAECIPE TO PROCEED IN FORMA PAUPERIS](../forms/custody.md#petition-to-proceed-in-forma-pauperis-request-waiver-of-filing-fee)
 and file it at the same time as your Complaint for Custody. You may download a
-Praecipe to Proceed in Forma Pauperis from the [Forms](/forms) section of
+Praecipe to Proceed in Forma Pauperis from the [Forms](../forms/custody.md) section of
 this site. If the Court approves your Praecipe, then you will not have to pay
 a filing fee.
 ///
@@ -246,9 +246,9 @@ follow the judge’s Order of Court.
 As your children grow older, your Court Order may no longer apply to your
 present circumstances, or you may desire a more specific holiday/vacation
 schedule. In either case, you may file a [PETITION FOR MODIFICATION OF A
-CUSTODY ORDER](/forms/custody/#petition-for-modification-of-a-custody-order).
+CUSTODY ORDER](../forms/custody.md#petition-for-modification-of-a-custody-order).
 There are no fees to file a Petition to Modify Custody. You may download the
-form from the [Forms](/forms) section of this site. Be sure to state you case
+form from the [Forms](../forms/custody.md) section of this site. Be sure to state you case
 in clear, concise terms. Submit your completed forms to the Family Hearing
 Office so the matter can be scheduled for a conference.
 ///
@@ -261,7 +261,7 @@ Office so the matter can be scheduled for a conference.
 The answer is yes. A judge may modify (change) a custody order at any time
 until a child turns 18 years old. The way to ask a judge to modify a custody
 order is to fill out and file a [PETITION FOR MODIFICATION OF A CUSTODY
-ORDER](/forms/custody/#petition-for-modification-of-a-custody-order).
+ORDER](../forms/custody.md#petition-for-modification-of-a-custody-order).
 ///
 
 /// details | ### The other party is not following the Order. How do I enforce it?
@@ -270,11 +270,11 @@ ORDER](/forms/custody/#petition-for-modification-of-a-custody-order).
         name: faq
 
 If the other party is not abiding by the Custody Order, you may file a
-[CONTEMPT PETITION](/forms/custody/#custody-contempt-petition). The matter
+[CONTEMPT PETITION](../forms/custody.md#custody-contempt-petition). The matter
 will then be scheduled for a hearing with a judge on the issues raised in
-your Petition. You may download the form from the [Forms](/forms) section of this site.
+your Petition. You may download the form from the [Forms](../forms/custody.md) section of this site.
 Be sure to state your case in clear, concise terms. Submit your completed
-forms to the [Court Administrator’s Office](../../departments/court-administrator.md)
+forms to the [Court Administrator’s Office](../departments/court-administrator.md)
 so the matter can be scheduled for a hearing.
 ///
 
@@ -283,7 +283,7 @@ so the matter can be scheduled for a hearing.
     attrs:
         name: faq
 
-The [Family Hearing Office](../../departments/family-hearing-office.md)
+The [Family Hearing Office](../departments/family-hearing-office.md)
 handles all custody matters in both Warren and Forest Counties. Feel free to
 contact the office staff with additional questions. However, the Court and
 its staff __cannot provide legal advice__. Any legal questions should be
@@ -334,5 +334,5 @@ certificate of completion with the Family Hearing Office.
     attrs:
         name: faq
 
-Yes, you may view a [flowchart of the custody process](/CustodyFlowchart.html){ target='_blank' }.
+Yes, you may view a [flowchart of the custody process](../CustodyFlowchart.html){ target='_blank' }.
 ///

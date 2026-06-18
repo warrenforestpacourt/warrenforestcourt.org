@@ -19,7 +19,7 @@ Warren, PA 16365-2362
 
 Phone: [814-728-3488](tel:+18147283488)<br>
 Fax: [814-728-3475](tel:+18147283475)<br>
-Email: [fho@warrencountypa.gov](mailto:fho@warrencountypa.gov)
+Email: <fho@warrencountypa.gov>
 
 ## Office Hours
 
@@ -29,7 +29,8 @@ Email: [fho@warrencountypa.gov](mailto:fho@warrencountypa.gov)
 
 The Family Hearing Office is located on the **first floor** of the Warren
 County Courthouse and is the third office on the right when entering from
-the **Fifth Avenue entrance**. Get [directions](/departments#directions-warren-courthouse) to the Courthouse.
+the **Fifth Avenue entrance**. Get [directions](index.md#directions-warren-courthouse)
+to the Courthouse.
 
 ## Office Staff
 

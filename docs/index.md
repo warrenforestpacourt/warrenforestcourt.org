@@ -24,7 +24,7 @@ hide:
 
     Get answers to<br>frequently asked questions.
 
-    [View FAQs](faqs.md){ .md-button .md-button--primary }
+    [View FAQs](faqs/index.md){ .md-button .md-button--primary }
 
 *   :material-calendar-month-outline:{ .lg .middle } __Calendars__
 

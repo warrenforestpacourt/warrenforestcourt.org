@@ -17,7 +17,11 @@ Marienville. Please see the page for each department for more information.
 
 [:material-human-male-female-child: Family Hearing Office](family-hearing-office.md){ .md-button .md-button--secondary }
 
-[:material-police-badge: Probation Departments](probation.md){ .md-button .md-button--secondary }
+[:material-police-badge: Forest County Probation](probation/forest.md){ .md-button .md-button--secondary }
+
+[:material-police-badge: Warren County Adult Probation](probation/warren/adult.md){ .md-button .md-button--secondary }
+
+[:material-police-badge: Warren County Juvenile Probation](probation/warren/juvenile.md){ .md-button .md-button--secondary }
 
 [:material-gavel: Magisterial District Judges](mdj/index.md){ .md-button .md-button--secondary }
 

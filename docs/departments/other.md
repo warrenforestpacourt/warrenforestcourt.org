@@ -4,7 +4,7 @@ icon: fontawesome/solid/building-columns
 
 # Court Related Departments
 
-## Warren County Prothonotary/Clerk of Courts { .section-header }
+## :fontawesome-solid-building-columns: Warren County Prothonotary/Clerk of Courts { .section-header }
 
 Visit the [Warren County](https://warrencountypa.gov/1222/Prothonotary-Clerk-of-Courts)
 web site for more Information.
@@ -28,7 +28,7 @@ The Warren County Prothonotary/Clerk of Courts is located in the Warren County
 Courthouse. Get [directions](index.md#directions-warren-courthouse) to
 the Courthouse.
 
-## Warren County Register & Recorder/Clerk of Orphans’ Court { .section-header }
+## :fontawesome-solid-building-columns: Warren County Register & Recorder/Clerk of Orphans’ Court { .section-header }
 
 Visit the [Warren County](https://warrencountypa.gov/1199/Register-Recorders-Office)
 web site for more Information.
@@ -52,7 +52,7 @@ The Warren County Register & Recorder/Clerk of Orphans’ Court is located in th
 County Courthouse. Get [directions](index.md#directions-warren-courthouse)
 to the Courthouse.
 
-## Forest County Register & Recorder/Clerk of Courts/Prothonotary { .section-header }
+## :fontawesome-solid-building-columns: Forest County Register & Recorder/Clerk of Courts/Prothonotary { .section-header }
 
 Visit the [Forest County](http://www.co.forest.pa.us/departments/prothonotary.php)
 web site for more Information.

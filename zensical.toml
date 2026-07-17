@@ -53,7 +53,12 @@ nav = [
     "departments/court-administrator.md",
     "departments/domestic-relations.md",
     "departments/family-hearing-office.md",
-    "departments/probation.md",
+    # "departments/probation.md",
+    {"Probation Departments" = [
+      "departments/probation/forest.md",
+      "departments/probation/warren/adult.md",
+      "departments/probation/warren/juvenile.md"
+    ]},
     {"Magisterial District Judges" = [
       "departments/mdj/index.md",
       "departments/mdj/37-2-01.md",
@@ -64,11 +69,11 @@ nav = [
     ]},
     "departments/other.md",
   ]},
-  { "Forms" = [
-    "forms/index.md",
-    "forms/criminal.md",
+  {"Forms" = [
+    # "forms/index.md",
     "forms/custody.md",
     "forms/pfa.md",
+    "forms/criminal.md",
     "forms/juvenile.md",
     "forms/public-records.md",
     "forms/disability-act.md",
@@ -79,7 +84,7 @@ nav = [
     "forms/forest-fees.md",
   ]},
   { "FAQs" = [
-    "faqs/index.md",
+    # "faqs/index.md",
     "faqs/general.md",
     "faqs/jury.md",
     "faqs/custody.md",

@@ -4,7 +4,7 @@ icon: material/frequently-asked-questions
 
 # :material-frequently-asked-questions: General Questions
 
-/// details | ### Will I receive fair treatment when representing myself?
+/// details | ## Will I receive fair treatment when representing myself?
     type: question
     attrs:
         name: faq
@@ -15,7 +15,7 @@ However, pro se litigants are expected to follow/abide by the rules that
 govern the practice of law in Pennsylvania courts.
 ///
 
-/// details | ### What does “_Pro Se_” mean?
+/// details | ## What does “_Pro Se_” mean?
     type: question
     attrs:
         name: faq
@@ -25,7 +25,7 @@ known as a _PRO SE_ LITIGANT. “_Pro Se_” is a Latin term meaning “for
 yourself.”
 ///
 
-/// details | ### Why can’t I speak with the Judge?
+/// details | ## Why can’t I speak with the Judge?
     type: question
     attrs:
         name: faq

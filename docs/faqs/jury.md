@@ -4,7 +4,7 @@ icon: material/frequently-asked-questions
 
 # :material-frequently-asked-questions: Jury Duty Questions
 
-/// details | ### Who qualifies for jury service?
+/// details | ## Who qualifies for jury service?
     type: question
     attrs:
         name: faq
@@ -17,7 +17,7 @@ or have been convicted of a crime punishable by imprisonment for more than
 one year.
 ///
 
-/// details | ### What if I don’t meet the qualifications or cannot be available when I am summoned to appear?
+/// details | ## What if I don’t meet the qualifications or cannot be available when I am summoned to appear?
     type: question
     attrs:
         name: faq
@@ -26,7 +26,7 @@ You should contact the Court Administrator to request that you be excused from
 jury service.
 ///
 
-/// details | ### How often must I serve?
+/// details | ## How often must I serve?
     type: question
     attrs:
         name: faq
@@ -36,7 +36,7 @@ of one year. If service is for three or more days, the exemption period is
 three years.
 ///
 
-/// details | ### Will I get paid for serving as a juror?
+/// details | ## Will I get paid for serving as a juror?
     type: question
     attrs:
         name: faq
@@ -45,7 +45,7 @@ Yes. Jurors are paid $9.00 per day for the first three days of jury service
 and $25.00 per day for every day thereafter.
 ///
 
-/// details | ### Does my employer have to pay me for time missed from work due to jury service?
+/// details | ## Does my employer have to pay me for time missed from work due to jury service?
     type: question
     attrs:
         name: faq
@@ -55,7 +55,7 @@ their period of jury service. However, an employer may not fire you or
 otherwise harm you for responding to a summons.
 ///
 
-/// details | ### What should I bring when I report?
+/// details | ## What should I bring when I report?
     type: question
     attrs:
         name: faq
@@ -64,7 +64,7 @@ You should bring your summons. You may also bring something to read during
 waiting periods.
 ///
 
-/// details | ### What if I fail to report for service?
+/// details | ## What if I fail to report for service?
     type: question
     attrs:
         name: faq
@@ -74,7 +74,7 @@ fined. However, by making jury service as flexible as possible, we hope to
 avoid using this power.
 ///
 
-/// details | ### What should I wear?
+/// details | ## What should I wear?
     type: question
     attrs:
         name: faq
@@ -88,7 +88,7 @@ dresses are all appropriate.
   buildings but not in a Courtroom.**
 ///
 
-/// details | ### What if I speak English as a second language?
+/// details | ## What if I speak English as a second language?
     type: question
     attrs:
         name: faq

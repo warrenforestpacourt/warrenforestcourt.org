@@ -193,6 +193,6 @@ div#feature li p:first-of-type {
 }
 
 /* Accordians */
-details>summary>h3 {
+details>summary>h2, details>summary>h3 {
     margin: 0 !important;
 }

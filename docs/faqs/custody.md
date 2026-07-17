@@ -5,7 +5,7 @@ icon: material/frequently-asked-questions
 
 # :material-frequently-asked-questions: Child Custody Questions
 
-/// details | ### What are the different types of custody?
+/// details | ## What are the different types of custody?
     type: question
     attrs:
         name: faq
@@ -65,7 +65,7 @@ Relocation
 ////
 ///
 
-/// details | ### Do I have to have an attorney to file for custody?
+/// details | ## Do I have to have an attorney to file for custody?
     type: question
     attrs:
         name: faq
@@ -75,7 +75,7 @@ However, many people find it helpful to have an attorney to represent them,
 and to guide them through the process.
 ///
 
-/// details | ### Will the Court appoint an attorney to represent me for free?
+/// details | ## Will the Court appoint an attorney to represent me for free?
     type: question
     attrs:
         name: faq
@@ -85,7 +85,7 @@ where a person might be represented by a public defender for free, custody
 cases are civil law matters.
 ///
 
-/// details | ### How do I file for custody?
+/// details | ## How do I file for custody?
     type: question
     attrs:
         name: faq
@@ -99,7 +99,7 @@ Warren County Prothonotary's Office.
 You may download a Complaint for Custody from the Forms section of this site. 
 ///
 
-/// details | ### I do not want to file for “custody,” I only want to file for "visitation." What form do I use for that?
+/// details | ## I do not want to file for “custody,” I only want to file for "visitation." What form do I use for that?
     type: question
     attrs:
         name: faq
@@ -112,7 +112,7 @@ type of custody that you are requesting. The term “visitation” is no longer
 used in Pennsylvania custody cases.
 ///
 
-/// details | ### How much does it cost to file for custody?
+/// details | ## How much does it cost to file for custody?
     type: question
     attrs:
         name: faq
@@ -127,7 +127,7 @@ credit cards, and other electronic forms of payment are not accepted at this
 time. 
 ///
 
-/// details | ### What if I cannot afford the filing fee?
+/// details | ## What if I cannot afford the filing fee?
     type: question
     attrs:
         name: faq
@@ -140,7 +140,7 @@ this site. If the Court approves your Praecipe, then you will not have to pay
 a filing fee.
 ///
 
-/// details | ### What is the difference between a Conference and a Hearing?
+/// details | ## What is the difference between a Conference and a Hearing?
     type: question
     attrs:
         name: faq
@@ -162,7 +162,7 @@ custody issues are heard by the Court Hearing Officer. All other custody
 matters are heard by the Court (a judge).
 ///
 
-/// details | ### Is the custody conference the same as mediation?
+/// details | ## Is the custody conference the same as mediation?
     type: question
     attrs:
         name: faq
@@ -174,7 +174,7 @@ judge. The Court Hearing Officer is not a mediator, however, and neither
 party will be pushed or pressured to enter into an agreement.
 ///
 
-/// details | ### Do we have to have a conference? I am sure that we are not going to agree.
+/// details | ## Do we have to have a conference? I am sure that we are not going to agree.
     type: question
     attrs:
         name: faq
@@ -188,7 +188,7 @@ Depending on the situation, the Court Hearing Officer might also recommend an
 interim (temporary) order to a judge.
 ///
 
-/// details | ### Why has my case been scheduled for a conference, instead of a hearing?
+/// details | ## Why has my case been scheduled for a conference, instead of a hearing?
     type: question
     attrs:
         name: faq
@@ -200,7 +200,7 @@ be held. The conference is not recorded and no testimony is obtained from
 either parties or witnesses. 
 ///
 
-/// details | ### If we already have an agreement, do we still need to go to a conference?
+/// details | ## If we already have an agreement, do we still need to go to a conference?
     type: question
     attrs:
         name: faq
@@ -211,7 +211,7 @@ Hearing Officer will have some specific questions regarding the details of
 the agreement, before preparing a proposed order for a judge to review.
 ///
 
-/// details | ### What happens if we reach an agreement at the conference?
+/// details | ## What happens if we reach an agreement at the conference?
     type: question
     attrs:
         name: faq
@@ -223,7 +223,7 @@ and Forest County custody orders. The Hearing Officer will also prepare a
 report to be sent to the judge with the proposed Consent Order.
 ///
 
-/// details | ### What happens if we cannot agree?
+/// details | ## What happens if we cannot agree?
     type: question
     attrs:
         name: faq
@@ -238,7 +238,7 @@ issued, reflecting that decision. All parties involved will be expected to
 follow the judge’s Order of Court.
 ///
 
-/// details | ### I already have a custody order. How do I ask for it to be changed?
+/// details | ## I already have a custody order. How do I ask for it to be changed?
     type: question
     attrs:
         name: faq
@@ -253,7 +253,7 @@ in clear, concise terms. Submit your completed forms to the Family Hearing
 Office so the matter can be scheduled for a conference.
 ///
 
-/// details | ### If I agree to a custody order, am I allowed to ask for it to be changed in the future?
+/// details | ## If I agree to a custody order, am I allowed to ask for it to be changed in the future?
     type: question
     attrs:
         name: faq
@@ -264,7 +264,7 @@ order is to fill out and file a [PETITION FOR MODIFICATION OF A CUSTODY
 ORDER](../forms/custody.md#petition-for-modification-of-a-custody-order).
 ///
 
-/// details | ### The other party is not following the Order. How do I enforce it?
+/// details | ## The other party is not following the Order. How do I enforce it?
     type: question
     attrs:
         name: faq
@@ -278,7 +278,7 @@ forms to the [Court Administrator’s Office](../departments/court-administrator
 so the matter can be scheduled for a hearing.
 ///
 
-/// details | ### Where can I find additional information regarding child custody?
+/// details | ## Where can I find additional information regarding child custody?
     type: question
     attrs:
         name: faq
@@ -290,7 +290,7 @@ its staff __cannot provide legal advice__. Any legal questions should be
 directed to your attorney.
 ///
 
-/// details | ### Where can I get legal assistance?
+/// details | ## Where can I get legal assistance?
     type: question
     attrs:
         name: faq
@@ -300,7 +300,7 @@ You may contact [Northwestern Legal Services](https://www.nwls.org/) at
 directly, they can point you to someone you can.
 ///
 
-/// details | ### Where can I find information about the Parenting Classes?
+/// details | ## Where can I find information about the Parenting Classes?
     type: question
     attrs:
         name: faq
@@ -317,7 +317,7 @@ similar content offered in your home area. Make sure to forward a Certificate
 of Completion to the Family Hearing Office.
 ///
 
-/// details | ### Are there any online parenting classes that I can take?
+/// details | ## Are there any online parenting classes that I can take?
     type: question
     attrs:
         name: faq
@@ -329,7 +329,7 @@ After completing the program, it is your responsibility to file the
 certificate of completion with the Family Hearing Office.
 ///
 
-/// details | ### Could I see the steps in the Custody Process laid out in an easy-to-understand way?
+/// details | ## Could I see the steps in the Custody Process laid out in an easy-to-understand way?
     type: question
     attrs:
         name: faq

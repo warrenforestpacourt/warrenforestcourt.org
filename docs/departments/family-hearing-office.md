@@ -1,15 +1,16 @@
 ---
 icon: material/human-male-female-child
+title: Family Hearing Office
 ---
 
-# Family Hearing Office
+# Family Hearing Office / Court Hearing Officer
 
-The Family Hearing Office assists parents in working out the terms of their
-shared custody agreement in a non-threatening, non-adversarial manner. For
-more information on Child Custody, see the answers to [Frequently Asked
-Questions](../faqs/custody.md). You may also [download forms](../forms/custody.md)
-used by the Family Hearing Office. The office in Warren serves both Warren and
-Forest Counties.
+At the Family Hearing Office, the Court Hearing Officer hears cases involving
+partial custody, visitation, divorce, alimony, equitable distribution and
+related claims. For more information on Child Custody, see the answers to
+[Frequently Asked Questions](../faqs/custody.md). You may also
+[download forms](../forms/custody.md) used by the Family Hearing Office. The
+office in Warren serves both Warren and Forest Counties.
 
 ## Contact Information
 

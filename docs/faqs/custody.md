@@ -11,7 +11,7 @@ icon: material/frequently-asked-questions
         name: faq
 
 The different types of custody are defined by Pennsylvania law, specifically
-23 Pa. C.S. §5322(a). They are as follows:
+[23 Pa. C.S. §5322(a)][]. They are as follows:
 
 //// define
     attrs:
@@ -58,12 +58,28 @@ Supervised physical custody
   agreed upon by the parties monitors the interaction between the child and
   the individual with those rights.
 
+Nonprofessional supervised physical custody
+
+- Custodial time during which an adult, designated by the court or agreed upon
+  by the parties, monitors the interaction between the child and the
+  individual with those rights.
+
+Professional supervised physical custody
+
+- Custodial time during which a professional, with education and training on
+  the dynamics of domestic violence, sexual assault, child abuse, trauma and
+  the impact of domestic violence on children, oversees the interaction
+  between the child and the individual with those custody rights and promotes
+  the safety of the child during the interaction.
+
 Relocation
 
 - A change in a residence of the child which significantly impairs the ability
   of a nonrelocating party to exercise custodial rights.
 ////
 ///
+
+[23 Pa. C.S. §5322(a)]: https://www.palegis.us/statutes/consolidated/view-statute?txtType=HTM&ttl=23&div=0&chapter=53&section=22&subsctn=0
 
 /// details | ## Do I have to have an attorney to file for custody?
     type: question

@@ -1,4 +1,4 @@
-name: Deploy to Cloudflare Pages
+name: Deploy to Cloudflare Worker
 on:
   push:
     branches:
@@ -22,5 +22,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy ./site --project-name=warrenforestcourt
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}

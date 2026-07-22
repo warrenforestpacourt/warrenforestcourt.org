@@ -1,5 +1,9 @@
 name = "warrenforestcourt"
 compatibility_date = "2026-07-21"
+# Set workers_dev to false when a custom domain is set up to turn off sample deployment
+# In the meantime, site is deployed at https://warrenforestcourt.wlimberg.workers.dev/
+workers_dev = true
+preview_urls = false
 
 [assets]
 directory = "./site"

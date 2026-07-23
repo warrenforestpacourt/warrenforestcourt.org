@@ -126,7 +126,7 @@ extra_css = ["assets/stylesheets/extra.css"]
 # Read more:
 # - https://zensical.org/docs/customization/#extending-the-theme
 #
-#custom_dir = "overrides"
+custom_dir = "theme"
 
 # With the "favicon" option you can set your own image to use as the icon
 # browsers will use in the browser title bar or tab bar. The path provided
@@ -289,7 +289,7 @@ features = [
     # When navigation integration for the table of contents is enabled, it is
     # always rendered as part of the navigation sidebar on the left.
     # https://zensical.org/docs/setup/navigation/#navigation-integration
-    "toc.integrate",
+    # "toc.integrate",
 ]
 
 # ----------------------------------------------------------------------------
@@ -349,6 +349,11 @@ accent = "indigo"
 # ----------------------------------------------------------------------------
 [project.extra]
 generator = false
+
+[project.extra.section_icons]
+"Probation Departments" = "material/police-badge"
+"Court Related" = "fontawesome/solid/building-columns"
+
 
 #[[project.extra.social]]
 # icon = "fontawesome/brands/github"

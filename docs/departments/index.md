@@ -1,5 +1,7 @@
 ---
 icon: fontawesome/solid/building-columns
+hide:
+    - toc
 ---
 
 # Court Departments

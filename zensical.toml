@@ -67,7 +67,11 @@ nav = [
       "departments/mdj/37-4-03.md",
       "departments/mdj/37-4-93.md",
     ]},
-    "departments/other.md",
+    {"Court Related Departments" = [
+      "departments/related/warren/prothonotary-clerk-of-court.md",
+      "departments/related/warren/register-recorder-orphan-clerk.md",
+      "departments/related/forest/prothonotary-clerk-register-recorder.md",
+    ]},
   ]},
   {"Forms" = [
     # "forms/index.md",
@@ -352,7 +356,7 @@ generator = false
 
 [project.extra.section_icons]
 "Probation Departments" = "material/police-badge"
-"Court Related" = "fontawesome/solid/building-columns"
+"Court Related Departments" = "fontawesome/solid/building-columns"
 
 
 #[[project.extra.social]]

@@ -27,7 +27,11 @@ Marienville. Please see the page for each department for more information.
 
 [:material-gavel: Magisterial District Judges](mdj/index.md){ .md-button .md-button--secondary }
 
-[:fontawesome-solid-building-columns: Court Related Departments](other.md){ .md-button .md-button--secondary }
+[:fontawesome-solid-building-columns: Warren County Prothonotary/Clerk of Courts](related/warren/prothonotary-clerk-of-court.md){ .md-button .md-button--secondary }
+
+[:fontawesome-solid-building-columns: Warren County Register & Recorder/Clerk of Orphans’ Court](related/warren/register-recorder-orphan-clerk.md){ .md-button .md-button--secondary }
+
+[:fontawesome-solid-building-columns: Forest County Register & Recorder/Clerk of Courts/Prothonotary](related/forest/prothonotary-clerk-register-recorder.md){ .md-button .md-button--secondary }
 ///
 
 /// details | Directions to the Warren County Courthouse

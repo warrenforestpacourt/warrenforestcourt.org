@@ -23,5 +23,6 @@ Fax: [814-728-3459](tel:+18147283459)
 ## Location
 
 The Warren County Prothonotary/Clerk of Courts is located in the Warren County
-Courthouse. Get [directions](../../index.md#directions-warren-courthouse) to
-the Courthouse.
+Courthouse. 
+
+[:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }

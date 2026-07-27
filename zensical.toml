@@ -49,11 +49,9 @@ use_directory_urls = true
 nav = [
   { "Home" = "index.md"},
   { "Departments" = [
-    "departments/index.md",
     "departments/court-administrator.md",
     "departments/domestic-relations.md",
     "departments/family-hearing-office.md",
-    # "departments/probation.md",
     {"Probation Departments" = [
       "departments/probation/forest.md",
       "departments/probation/warren/adult.md",
@@ -74,7 +72,6 @@ nav = [
     ]},
   ]},
   {"Forms" = [
-    # "forms/index.md",
     "forms/custody.md",
     "forms/pfa.md",
     "forms/criminal.md",
@@ -88,7 +85,6 @@ nav = [
     "forms/forest-fees.md",
   ]},
   { "FAQs" = [
-    # "faqs/index.md",
     "faqs/general.md",
     "faqs/jury.md",
     "faqs/custody.md",
@@ -358,6 +354,13 @@ generator = false
 "Probation Departments" = "material/police-badge"
 "Court Related Departments" = "fontawesome/solid/building-columns"
 
+[project.extra.map_urls]
+warren = "http://maps.google.com/maps?output=html&q=204+Fourth+Avenue%2C+Warren+PA+16365"
+annex = "http://maps.google.com/maps?hl=en&output=html&q=333+Hickory+Street%2C+Warren+PA+16365"
+north_warren = "http://maps.google.com/maps?hl=en&output=html&q=4234+Market+Street%2C+North+Warren+PA+16365"
+youngsville = "http://maps.google.com/maps?hl=en&output=html&q=37+Railroad+Street%2C+Youngsville+PA+16371"
+tionesta = "http://maps.google.com/maps?hl=en&output=html&q=526+Elm+Street%2C+Tionesta+PA+16353"
+marienville = "https://www.google.com/maps/place/271+Oak+Ln,+Marienville,+PA+16239/@41.4637012,-79.1325966,17z/data=!3m1!4b1!4m5!3m4!1s0x89cd26c076ee8549:0xdba573ff06942664!8m2!3d41.4637012!4d-79.1304026"
 
 #[[project.extra.social]]
 # icon = "fontawesome/brands/github"
@@ -414,3 +417,4 @@ combine_header_slug = true
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
 # [project.markdown_extensions.pymdownx.snippets]
+[project.markdown_extensions.zensical.extensions.macros]

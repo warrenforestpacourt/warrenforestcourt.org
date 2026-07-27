@@ -30,8 +30,9 @@ Email: <fho@warrencountypa.gov>
 
 The Family Hearing Office is located on the **first floor** of the Warren
 County Courthouse and is the third office on the right when entering from
-the **Fifth Avenue entrance**. Get [directions](index.md#directions-warren-courthouse)
-to the Courthouse.
+the **Fifth Avenue entrance**.
+
+[:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }
 
 ## Office Staff
 

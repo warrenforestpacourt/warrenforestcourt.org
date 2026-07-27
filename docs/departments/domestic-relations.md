@@ -29,9 +29,10 @@ online, visit <https://www.humanservices.state.pa.us/csws/>.
 ## Location
 
 The Domestic Relations Office is located in the Hickory Street Annex at 333
-Hickory Street, in the city of Warren. Get [directions](index.md#directions-hickory-street)
-to the office. The main entrance to the office is off the parking lot on the
-left side of the building, towards the back.
+Hickory Street, in the city of Warren. The main entrance to the office is off
+the parking lot on the left side of the building, towards the back.
+
+[:lucide-map: View a map]({{config.extra.map_urls.annex}}){ .md-button .md-button--primary target='_blank' }
 
 ## Staff
 

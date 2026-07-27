@@ -2,7 +2,7 @@
 icon: material/police-badge
 ---
 
-# Warren County Adult Probation { .section-header }
+# Warren County Adult Probation
 
 ## Contact Information
 
@@ -23,8 +23,9 @@ Phone: [814-728-3487](tel:+18147283487)
 The Adult Probation Office is located in the **basement** of the Warren County
 Courthouse and is most easily accessed by entering from the door (down the
 stairs) facing the parking lot to the left (opposite Market Street) of the
-Courthouse. Get [directions](../../index.md#directions-warren-courthouse) to
-the Courthouse.
+Courthouse. 
+
+[:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }
 
 ## Probation Officers
 

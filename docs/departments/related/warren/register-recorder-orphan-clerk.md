@@ -23,5 +23,6 @@ Fax: [814-728-3476](tel:+18147283476)
 ## Location
 
 The Warren County Register & Recorder/Clerk of Orphans’ Court is located in the Warren 
-County Courthouse. Get [directions](../../index.md#directions-warren-courthouse)
-to the Courthouse.
+County Courthouse. 
+
+[:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }

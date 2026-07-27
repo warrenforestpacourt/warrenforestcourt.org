@@ -2,7 +2,7 @@
 icon: material/police-badge
 ---
 
-# Warren County Juvenile Probation { .section-header }
+# Warren County Juvenile Probation
 
 ## Contact Information
 
@@ -20,7 +20,8 @@ The Juvenile Probation Office is the only office located on the **third
 floor** of the Warren County Courthouse and is most easily accessed by the
 elevator. Note: Only the old elevator near the center of the courthouse goes
 up to the third floor. 
-Get [directions](../../index.md#directions-warren-courthouse) to the Courthouse.
+
+[:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }
 
 ## Probation Officers
 

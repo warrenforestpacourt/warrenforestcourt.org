@@ -2,7 +2,7 @@
 icon: material/police-badge
 ---
 
-# Forest County Probation { .section-header }
+# Forest County Probation
 
 ## Contact Information
 
@@ -17,7 +17,8 @@ Email: <mrhoads@forestcountypa.gov>
 ## Location
 
 The Forest County Probation Department is located in the Forest County Courthouse.
-Get [directions](../index.md#directions-forest-courthouse) to the Courthouse.
+
+[:lucide-map: View a map]({{config.extra.map_urls.tionesta}}){ .md-button .md-button--primary target='_blank' }
 
 ## Staff
 

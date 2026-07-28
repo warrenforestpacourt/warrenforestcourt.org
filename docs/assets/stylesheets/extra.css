@@ -103,9 +103,18 @@ dl.inline-dl dd:after{
 }
 
 /* Center Card */
-.cards.center p {
+.cards.center {
     text-align: center;
 }
+
+.cards.center h2, .cards.center h3 {
+    margin: 0 0 .4em;
+}
+
+.cards.center h2 a.headerlink, .cards.center h3 a.headerlink {
+    display: none;
+}
+
 
 /* Darken Card Border */
 .md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
@@ -170,12 +179,11 @@ div#feature li {
 }
 
 div#feature li p {
-    font-weight: bold;
+    font-weight: 510;
 }
 
-div#feature li p:first-of-type {
+div#feature li h2 {
     color: var(--md-typeset-a-color);
-    font-size: 1.4em;
 }
 
 /* Columns */

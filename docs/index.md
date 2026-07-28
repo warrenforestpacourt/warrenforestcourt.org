@@ -14,19 +14,19 @@ hide:
 //// html | div
     attrs: {id: 'feature', class: 'grid cards center'}
 
-*   :material-file-document-edit-outline:{ .lg .middle } __Forms__
+*   ## :material-file-document-edit-outline:{ .lg .middle } Forms
 
     Download and print forms<br>for filing with the local Court.
 
     [View Forms](forms/index.md){ .md-button .md-button--primary }
 
-*   :material-frequently-asked-questions:{ .lg .middle } __FAQs__
+*   ## :material-frequently-asked-questions:{ .lg .middle } FAQs
 
     Get answers to<br>frequently asked questions.
 
     [View FAQs](faqs/index.md){ .md-button .md-button--primary }
 
-*   :material-calendar-month-outline:{ .lg .middle } __Calendars__
+*   ## :material-calendar-month-outline:{ .lg .middle } Calendars
 
     Download Annual and Weekly<br>Court Calendars.
 

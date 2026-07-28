@@ -266,7 +266,7 @@ are not a good fit for your present circumstances. If you wish to request a
 change, you may file a [PETITION FOR MODIFICATION OF A CUSTODY ORDER](../forms/custody.md#petition-for-modification-of-a-custody-order). 
 There are currently no fees to file a Petition for Modification of a Custody
 Order. You may download the form from the [Forms](../forms/custody.md)
-section of this site. Be sure to state you case in clear, concise terms.
+section of this site. Be sure to state your case in clear, concise terms.
 Submit your completed forms to the Family Hearing Office so that the matter
 can be scheduled for a conference.
 ///

@@ -105,6 +105,7 @@ dl.inline-dl dd:after{
 /* Center Card */
 .cards.center {
     text-align: center;
+    text-wrap: balance;
 }
 
 .cards.center h2, .cards.center h3 {
@@ -124,6 +125,10 @@ dl.inline-dl dd:after{
 /* Block Cards (as opposed to grid cards) */
 .md-typeset .block {
     margin: 1em 0;
+}
+
+.md-typeset .block.cards h2, .md-typeset .block.cards h3 {
+    text-wrap: pretty;
 }
 
 .md-typeset .block.cards>ol, .md-typeset .block.cards>ul {
@@ -166,6 +171,7 @@ div#welcome h1 {
     border-radius: .4rem;
     margin-bottom: .75em;
     color: var(--md-typeset-a-color);
+    text-wrap: balance;
 }
 
 div#feature {
@@ -203,4 +209,5 @@ div#feature li h2 {
 /* Accordians */
 details>summary>h2, details>summary>h3 {
     margin: 0 !important;
+    text-wrap: pretty;
 }

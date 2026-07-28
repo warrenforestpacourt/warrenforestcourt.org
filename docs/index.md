@@ -16,7 +16,7 @@ hide:
 
 *   ## :material-file-document-edit-outline:{ .lg .middle } Forms
 
-    Download and print forms<br>for filing with the local Court.
+    Download and print forms for<br>filing with the local Court.
 
     [View Forms](forms/index.md){ .md-button .md-button--primary }
 
@@ -28,7 +28,7 @@ hide:
 
 *   ## :material-calendar-month-outline:{ .lg .middle } Calendars
 
-    Download Annual and Weekly<br>Court Calendars.
+    Download Annual and<br>Weekly Court Calendars.
 
     [View Calendars](calendars.md){ .md-button .md-button--primary }
 ////

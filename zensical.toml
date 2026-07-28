@@ -381,7 +381,7 @@ marienville = "https://www.google.com/maps/place/271+Oak+Ln,+Marienville,+PA+162
 [project.markdown_extensions.footnotes]
 # [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.toc]
-permalink = true
+permalink = "&sect;"
 toc_depth = 2
 # [project.markdown_extensions.pymdownx.arithmatex]
 # generic = true

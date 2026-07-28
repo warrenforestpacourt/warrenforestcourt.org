@@ -12,7 +12,7 @@ departments of Forest County are housed in the Forest County Courthouse and
 Marienville. Please see the page for each department for more information.
 
 /// html | div
-    attrs: {class: 'inline-nav grid cards'}
+    attrs: {class: 'grid cards'}
 [:material-gavel: Court Administrator’s Office](court-administrator.md){ .md-button .md-button--secondary }
 
 [:fontawesome-solid-hand-holding-dollar: Domestic Relations Office](domestic-relations.md){ .md-button .md-button--secondary }

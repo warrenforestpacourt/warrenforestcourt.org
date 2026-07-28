@@ -57,6 +57,7 @@ building.
         name: judge
 
 ![The Honorable Gregory J. Hammond, President Judge](../assets/images/Judge-Hammond.jpg){ .wrap }
+
 Gregory J. Hammond was elected as Judge in November of 2009, and commenced
 his first term in January of 2010. He was retained for a second ten-year
 term in November of 2019, receiving the highest percentage of retention
@@ -92,6 +93,7 @@ term in January of 2026.
         name: judge
 
 ![The Honorable Maureen A. Skerda, Senior Judge](../assets/images/Judge-Skerda.jpg){ .wrap }
+
 Maureen A. Skerda was elected as the first female Judge of the 37th Judicial
 District and began her term of office in January of 2006. Judge Skerda
 served as the President Judge from 2010 through 2025 and became a Senior

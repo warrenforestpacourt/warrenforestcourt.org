@@ -50,23 +50,3 @@ Forest County Courthouse to conduct proceedings there as needed.
 This site is provided to inform the public of the various services offered by
 the Court and it’s departments in both counties. If you still have questions,
 please contact the proper department as listed within this site.
-
-/// admonition | External Links
-    attrs: {id: links}
-    type: links
-
-//// html | div
-    attrs: {class: 'columns'}
-
-- [Warren County, Pennsylvania](https://warrencountypa.gov/)
-- [Forest County, Pennsylvania](http://co.forest.pa.us/)
-- [Forest-Warren Human Services](http://wc-hs.org/)
-- [Warren/Forest County Bar Association](https://www.pabar.org/CountyDir/index.asp?county=43)
-- [Pennsylvania Bar Association](https://www.pabar.org/site/)
-- [Notice of Language Rights](https://www.pacourts.us/language-rights)
-- [Pennsylvania Child Support](https://www.humanservices.state.pa.us/csws/)
-- [Pennsylvania Legal Aid Network](http://www.palegalaid.net/)
-- [Pennsylvania Unified Judicial System](https://www.pacourts.us/)
-- [Disciplinary Board of the Supreme Court of Pennsylvania](https://www.padisciplinaryboard.org/)
-////
-///

@@ -184,6 +184,10 @@ div#welcome h1 {
     text-wrap: balance;
 }
 
+div#welcome h1 a.headerlink {
+    display: none;
+}
+
 div#feature {
     margin: 0;
     grid-gap: 1.5em;
@@ -214,6 +218,14 @@ div#feature li h2 {
 
 .columns ul {
     margin-top: 0;
+    list-style-type: none;
+}
+
+/*Footer*/
+.footer-external {
+   background-color: var(--md-default-fg-color--lightest);
+   font-size: .64rem;
+   padding-top: 1em;
 }
 
 /* Accordians */

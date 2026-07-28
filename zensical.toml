@@ -362,9 +362,50 @@ youngsville = "http://maps.google.com/maps?hl=en&output=html&q=37+Railroad+Stree
 tionesta = "http://maps.google.com/maps?hl=en&output=html&q=526+Elm+Street%2C+Tionesta+PA+16353"
 marienville = "https://www.google.com/maps/place/271+Oak+Ln,+Marienville,+PA+16239/@41.4637012,-79.1325966,17z/data=!3m1!4b1!4m5!3m4!1s0x89cd26c076ee8549:0xdba573ff06942664!8m2!3d41.4637012!4d-79.1304026"
 
-#[[project.extra.social]]
-# icon = "fontawesome/brands/github"
-# link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/git-alt"
+link = "https://github.com/warrenforestpacourt/warrenforestcourt.org"
+name = "Source for this site"
+
+[[project.extra.external]]
+name = "Warren County, Pennsylvania"
+link = "https://warrencountypa.gov/"
+
+[[project.extra.external]]
+name = "Forest County, Pennsylvania"
+link= "http://co.forest.pa.us/"
+
+[[project.extra.external]]
+name = "Forest-Warren Human Services"
+link = "http://wc-hs.org/"
+
+[[project.extra.external]]
+name = "Warren/Forest County Bar Association"
+link = "https://www.pabar.org/CountyDir/index.asp?county=43"
+
+[[project.extra.external]]
+name = "Pennsylvania Bar Association"
+link = "https://www.pabar.org/site/"
+
+[[project.extra.external]]
+name = "Notice of Language Rights"
+link = "https://www.pacourts.us/language-rights"
+
+[[project.extra.external]]
+name = "Pennsylvania Child Support"
+link = "https://www.humanservices.state.pa.us/csws/"
+
+[[project.extra.external]]
+name = "Pennsylvania Legal Aid Network"
+link = "http://www.palegalaid.net/"
+
+[[project.extra.external]]
+name = "Pennsylvania Unified Judicial System"
+link = "https://www.pacourts.us/"
+
+[[project.extra.external]]
+name = "Disciplinary Board of the Supreme Court of Pennsylvania"
+link = "https://www.padisciplinaryboard.org/"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when

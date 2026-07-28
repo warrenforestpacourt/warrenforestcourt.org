@@ -12,7 +12,7 @@ departments of Forest County are housed in the Forest County Courthouse and
 Marienville. Please see the page for each department for more information.
 
 /// html | div
-    attrs: {class: 'grid cards'}
+    attrs: {class: 'inline-nav grid cards'}
 [:material-gavel: Court Administrator’s Office](court-administrator.md){ .md-button .md-button--secondary }
 
 [:fontawesome-solid-hand-holding-dollar: Domestic Relations Office](domestic-relations.md){ .md-button .md-button--secondary }
@@ -27,9 +27,9 @@ Marienville. Please see the page for each department for more information.
 
 [:material-gavel: Magisterial District Judges](mdj/index.md){ .md-button .md-button--secondary }
 
-[:fontawesome-solid-building-columns: Warren County Prothonotary/Clerk of Courts](related/warren/prothonotary-clerk-of-court.md){ .md-button .md-button--secondary }
+[:fontawesome-solid-building-columns: Warren County Prothonotary / Clerk of Courts](related/warren/prothonotary-clerk-of-court.md){ .md-button .md-button--secondary }
 
-[:fontawesome-solid-building-columns: Warren County Register & Recorder/Clerk of Orphans’ Court](related/warren/register-recorder-orphan-clerk.md){ .md-button .md-button--secondary }
+[:fontawesome-solid-building-columns: Warren County Register & Recorder / Clerk of Orphans’ Court](related/warren/register-recorder-orphan-clerk.md){ .md-button .md-button--secondary }
 
-[:fontawesome-solid-building-columns: Forest County Register & Recorder/Clerk of Courts/Prothonotary](related/forest/prothonotary-clerk-register-recorder.md){ .md-button .md-button--secondary }
+[:fontawesome-solid-building-columns: Forest County Register & Recorder / Clerk of Courts / Prothonotary](related/forest/prothonotary-clerk-register-recorder.md){ .md-button .md-button--secondary }
 ///

@@ -9,7 +9,7 @@ hide:
 Select a category to view forms for that category.
 
 /// html | div
-    attrs: {class: 'grid cards'}
+    attrs: {class: 'inline-nav grid cards'}
 [:material-file-document-edit-outline: Criminal](criminal.md "Criminal Forms"){ .md-button .md-button--secondary }
 
 [:material-file-document-edit-outline: Child Custody](custody.md "Child Custody Forms"){ .md-button .md-button--secondary }

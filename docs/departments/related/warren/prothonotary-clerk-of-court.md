@@ -2,7 +2,7 @@
 icon: fontawesome/solid/building-columns
 ---
 
-# Warren County Prothonotary/Clerk of Courts
+# Warren County Prothonotary / Clerk of Courts
 
 Visit the [Warren County](https://warrencountypa.gov/1222/Prothonotary-Clerk-of-Courts)
 web site for more Information.
@@ -22,7 +22,7 @@ Fax: [814-728-3459](tel:+18147283459)
 
 ## Location
 
-The Warren County Prothonotary/Clerk of Courts is located in the Warren County
+The Warren County Prothonotary / Clerk of Courts is located in the Warren County
 Courthouse. 
 
 [:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }

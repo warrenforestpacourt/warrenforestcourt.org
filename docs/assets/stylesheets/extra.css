@@ -14,6 +14,10 @@
 }
 
 /* Stylize Headers */
+h1 {
+    text-wrap: pretty;
+}
+
 .section-header {    
     background: var(--md-accent-fg-color--transparent);
     border-radius: .4rem;
@@ -30,7 +34,7 @@ img.wrap {
 
 /*Inline navigation*/
 @media screen and (min-width: 76.25em) {
-    .inline-nav {
+    .inline-nav.shy {
         display: none !important;
     }
 }

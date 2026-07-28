@@ -2,7 +2,7 @@
 icon: fontawesome/solid/building-columns
 ---
 
-# Warren County Register & Recorder/Clerk of Orphans’ Court
+# Warren County Register & Recorder / Clerk of Orphans’ Court
 
 Visit the [Warren County](https://warrencountypa.gov/1199/Register-Recorders-Office)
 web site for more Information.
@@ -22,7 +22,7 @@ Fax: [814-728-3476](tel:+18147283476)
 
 ## Location
 
-The Warren County Register & Recorder/Clerk of Orphans’ Court is located in the Warren 
+The Warren County Register & Recorder / Clerk of Orphans’ Court is located in the Warren 
 County Courthouse. 
 
 [:lucide-map: View a map]({{config.extra.map_urls.warren}}){ .md-button .md-button--primary target='_blank' }

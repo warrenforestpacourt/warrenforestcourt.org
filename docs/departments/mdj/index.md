@@ -10,7 +10,7 @@ Judicial System. They are presided over by Magisterial District Judges
 three magisterial districts in Warren County and one in Forest County.
 
 /// html | div
-    attrs: {class: 'inline-nav grid cards'}
+    attrs: {class: 'inline-nav shy grid cards'}
 [:material-gavel: District Court 37-2-01](37-2-01.md  'Serving the City of Warren and the Townships of Sheffield and Cherry Grove'){ .md-button .md-button--secondary }
 
 [:material-gavel: District Court 37-3-01](37-3-01.md 'Serving Clarendon and Sugar Grove Boroughs and the Townships of Conewango, Elk, Farmington, Glade, Mead, Pine Grove, and Sugar Grove'){ .md-button .md-button--secondary }

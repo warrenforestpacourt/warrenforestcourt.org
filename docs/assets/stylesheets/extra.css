@@ -26,10 +26,16 @@ h1 {
 
 /*Inline Images*/
 img.wrap {
-    float: left;
-    margin-right: 1rem;
-    margin-bottom: .5rem;
+    margin-top: .3rem;
+    margin-right: .6rem;
+    margin-bottom: .3rem;
     border-radius: .4rem;
+}
+
+@media screen and (min-width: 38em) {
+    img.wrap {
+        float: left;
+    }
 }
 
 /*Inline navigation*/
@@ -214,4 +220,8 @@ div#feature li h2 {
 details>summary>h2, details>summary>h3 {
     margin: 0 !important;
     text-wrap: pretty;
+}
+
+details:not(.judge)>* {
+    padding-left: 1.6rem;
 }

@@ -1,0 +1,7 @@
+{% extends "base.html" %}
+
+{% block announce %}
+  {% if config.extra.announce %}
+    {{ config.extra.announce }}
+  {% endif %}
+{% endblock %}

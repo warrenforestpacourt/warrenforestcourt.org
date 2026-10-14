@@ -1,3 +1,16 @@
+/* Announce bar */
+.md-banner {
+    color: var(--md-primary-fg-color);
+}
+
+.md-banner a {
+    color: var(--md-code-hl-special-color);
+}
+
+.md-banner a:hover {
+    color: var(--md-code-hl-number-color);
+}
+
 /* Move search to far right */
 .md-header__source {
     display: none;

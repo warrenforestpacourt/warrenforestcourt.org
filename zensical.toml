@@ -349,6 +349,7 @@ accent = "indigo"
 # ----------------------------------------------------------------------------
 [project.extra]
 generator = false
+announce = "The 2027 Annual Calendar is now available. <a href=\"https://warrenforestcourt.org/documents/calendars/2027-Court-Calendar.pdf\">Download Now!</a>"
 
 [project.extra.section_icons]
 "Probation Departments" = "material/police-badge"

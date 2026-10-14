@@ -7,6 +7,10 @@ icon: material/calendar-month-outline
 /// html | div
     attrs:
         class: 'block cards'
+*   ### 2027 Annual Court Calendar
+
+    [Download Now!](documents/calendars/2027-Court-Calendar.pdf "2027 Annual Court Calendar"){ .md-button .md-button--secondary target="_blank" }
+
 *   ### 2026 Annual Court Calendar
 
     [Download Now!](documents/calendars/2026-Court-Calendar.pdf "2026 Annual Court Calendar"){ .md-button .md-button--secondary target="_blank" }

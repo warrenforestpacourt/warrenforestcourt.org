@@ -123,10 +123,8 @@ are current _(Additional warrant, sheriff or constable fees shall apply)_.
 ### After-Hours Payments
 
 All MDJ offices in Warren County have drop boxes to accept payments after
-normal business hours. Methods of payment when using the drop box are cash,
-check or money orders. If paying with cash please place money in an envelope
-with either the defendants name, address and phone number or case
-docket/payment plan number.
+normal business hours. Methods of payment when using the drop box are check
+or money orders.
 
 ### Monthly Installment Plans
 

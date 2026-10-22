@@ -135,19 +135,19 @@ icon: material/file-document-edit-outline
     You have a right to court services in your language. Tell us if you had a
     problem. We will review the information and try to fix the problem.
 
-    Usted tiene derecho a recibir servicios de los tribunales en su idioma.
-    Díganos si tuvo un problema. Revisaremos la información e intentaremos
-    solucionar el problema.
+    <bdi lang="es">Usted tiene derecho a recibir servicios de los tribunales
+    en su idioma. Díganos si tuvo un problema. Revisaremos la información e
+    intentaremos solucionar el problema.</bdi>
 
-    [نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی - Arabic](../documents/language-access/28_ARABIC_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="ar">نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی </bdi>- Arabic](../documents/language-access/28_ARABIC_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='ar'>نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی </bdi>"){ .md-button .md-button--secondary target="_blank" }
 
-    [宾夕法尼亚州法院语言服务意见反馈表 - Chinese](../documents/language-access/28_CHINESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - 宾夕法尼亚州法院语言服务意见反馈表"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="zh">宾夕法尼亚州法院语言服务意见反馈表</bdi> - Chinese](../documents/language-access/28_CHINESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='zh'>宾夕法尼亚州法院语言服务意见反馈表</bdi>"){ .md-button .md-button--secondary target="_blank" }
 
-    [पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम - Nepali](../documents/language-access/28_NEPALI_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="ne">पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम</bdi> - Nepali](../documents/language-access/28_NEPALI_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='ne'>पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम</bdi>"){ .md-button .md-button--secondary target="_blank" }
 
-    [Форма обратной связи об услугах перевода в судах Пенсильвании - Russian](../documents/language-access/28_RUSSIAN_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Форма обратной связи об услугах перевода в судах Пенсильвании"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="ru">Форма обратной связи об услугах перевода в судах Пенсильвании</bdi> - Russian](../documents/language-access/28_RUSSIAN_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='ru'>Форма обратной связи об услугах перевода в судах Пенсильвании</bdi>"){ .md-button .md-button--secondary target="_blank" }
 
-    [Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania - Spanish](../documents/language-access/28_SPANISH_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="es">Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania</bdi> - Spanish](../documents/language-access/28_SPANISH_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='es'>Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania</bdi>"){ .md-button .md-button--secondary target="_blank" }
 
-    [Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania - Vietnamese](../documents/language-access/28_VIETNAMESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania"){ .md-button .md-button--secondary target="_blank" }
+    [<bdi lang="vi">Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania</bdi> - Vietnamese](../documents/language-access/28_VIETNAMESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - <bdi lang='vi'>Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania</bdi>"){ .md-button .md-button--secondary target="_blank" }
 ///

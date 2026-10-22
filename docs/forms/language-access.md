@@ -120,15 +120,6 @@ icon: material/file-document-edit-outline
 
     [Download Form](../documents/language-access/LanguageAccessBrochure.pdf "Language Access Plan Brochure"){ .md-button .md-button--secondary target="_blank" }
 
-*   ## Language Access Plan Complaint Form
-
-    Use this Form to file a complaint if you feel that your rights to
-    meaningful language access have not been met by the Court. Contact the
-    [Court Administrator’s](../departments/court-administrator.md "Court Administrator")
-    Office for details.
-
-    [Download Form](../documents/language-access/Pennsylvania-Courts-Language-Services-Complaint-Bilingual-Spanish-5.17.22-Fillable.pdf "Language Access Plan Complaint Form"){ .md-button .md-button--secondary target="_blank" }
-
 *   ## Request for Reasonable Accommodation Form
 
     Use these forms to request reasonable accommodations under the Americans
@@ -138,4 +129,25 @@ icon: material/file-document-edit-outline
     Office for details.
 
     [Download Form](../documents/language-access/ADA-37th-judicial-district-Policies-Forms-District.pdf "Request for Reasonable Accommodation Form"){ .md-button .md-button--secondary target="_blank" }
+
+*   ## Pennsylvania Courts Language Services Feedback Form/Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania
+
+    You have a right to court services in your language. Tell us if you had a
+    problem. We will review the information and try to fix the problem.
+
+    Usted tiene derecho a recibir servicios de los tribunales en su idioma.
+    Díganos si tuvo un problema. Revisaremos la información e intentaremos
+    solucionar el problema.
+
+    [نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی - Arabic](../documents/language-access/28_ARABIC_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - نموذج إبداء الملاحظات حول الخدمات اللغویة بمحاكم ولایة بنسلفانی"){ .md-button .md-button--secondary target="_blank" }
+
+    [宾夕法尼亚州法院语言服务意见反馈表 - Chinese](../documents/language-access/28_CHINESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - 宾夕法尼亚州法院语言服务意见反馈表"){ .md-button .md-button--secondary target="_blank" }
+
+    [पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम - Nepali](../documents/language-access/28_NEPALI_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - पेन्सिलभेनिया अदालतहरूमा भाषा सेवाहरूको पृष्ठपोषण फाराम"){ .md-button .md-button--secondary target="_blank" }
+
+    [Форма обратной связи об услугах перевода в судах Пенсильвании - Russian](../documents/language-access/28_RUSSIAN_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Форма обратной связи об услугах перевода в судах Пенсильвании"){ .md-button .md-button--secondary target="_blank" }
+
+    [Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania - Spanish](../documents/language-access/28_SPANISH_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Formulario de comentarios sobre los servicios lingüísticos de los tribunales de Pennsylvania"){ .md-button .md-button--secondary target="_blank" }
+
+    [Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania - Vietnamese](../documents/language-access/28_VIETNAMESE_7.7.2026_Combined_Feedback-Complaint_Form.pdf "Combined Feedback-Complaint Form - Phiếu Phản Hồi về Dịch Vụ Ngôn Ngữ của Hệ Thống Tòa Án Pennsylvania"){ .md-button .md-button--secondary target="_blank" }
 ///
